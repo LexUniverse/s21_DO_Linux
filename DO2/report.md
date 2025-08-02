@@ -242,7 +242,7 @@ DROP – полностью удалить пакет
 
 ![img_5.png](ScreenShots%2FPart6%2Fimg_5.png)
 
-- Настройка r1 налогично r2 с жесткой привязкой к MAC адресу
+- Настройка r1 аналогично r2 с жесткой привязкой к MAC адресу
 
 ![img_6.png](ScreenShots%2FPart6%2Fimg_6.png)
 
