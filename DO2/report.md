@@ -99,7 +99,7 @@
 - 100 MB/s = 1024 KB * 100 MB/s * 8 bits = 819 200 Kbps
 - 1 Gbps = 1024 Mbps * 1 Gbps = 1024 Mbps
 
-![img.png](ScreenShots%2FPart%203%2Fimg.png)
+![img.png](ScreenShots%2FPart3%2Fimg.png)
 
 - Проверка скорости соединения между ws1 и ws2
 
